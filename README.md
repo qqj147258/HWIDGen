@@ -1,2 +1,2 @@
 # HWIDGen
-HWIDGen中文版，Windows 10 數位授權工具
+HWIDGEN是一款由國外Nsane論壇會員s1ave77製作的Windows 10數字權利啟動工具，這款Win10數字權利獲取工具，可以自動獲取Windows 10 數位授權，無需產品密鑰，以最簡單的方式永久啟動。
